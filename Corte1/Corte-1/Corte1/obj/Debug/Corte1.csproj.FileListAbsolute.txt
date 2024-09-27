@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Corte1\Corte1\bin\Debug\Corte1.exe.config
+C:\Users\User\source\repos\Corte1\Corte1\bin\Debug\Corte1.exe
+C:\Users\User\source\repos\Corte1\Corte1\bin\Debug\Corte1.pdb
+C:\Users\User\source\repos\Corte1\Corte1\obj\Debug\Corte1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Corte1\Corte1\obj\Debug\Corte1.Properties.Resources.resources
+C:\Users\User\source\repos\Corte1\Corte1\obj\Debug\Corte1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Corte1\Corte1\obj\Debug\Corte1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Corte1\Corte1\obj\Debug\Corte1.exe
+C:\Users\User\source\repos\Corte1\Corte1\obj\Debug\Corte1.pdb
+C:\Users\User\source\repos\Corte1\Corte1\obj\Debug\Corte1.RegristroDeEdades.resources
